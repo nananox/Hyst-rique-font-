@@ -1,2 +1,2 @@
-# Hyst-rique-font-
+# Hysterique-font
 Variable font
